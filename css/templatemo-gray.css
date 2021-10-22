@@ -58,12 +58,12 @@ h2 {
 
 .about,
 .education,.languages,
-.contact, .experience, .skills {
+.contact, .experience, .skills, .papers {
   padding: 38px;
   min-height: 330px;
 }
 
-.experience, .about {
+.experience, .about, .papers {
   margin:16px;
   padding: 34px;	
   padding-top: 40px;
@@ -72,7 +72,7 @@ h2 {
 }
 
 .education, .languages,
-.contact, .experience, .skills {
+.contact, .experience, .skills, .papers {
   margin-top: 30px;
 }
 
@@ -246,6 +246,20 @@ padding: 40px;
   padding-left: 0px;
 }
 
+.papers {
+  background: #666666;
+  color: #f5f5f5;
+}
+.papers .paper-content {
+  padding-bottom: 14px;
+}
+.papers h5 {
+  display: inline-block;
+}
+.papers span {
+  padding-right: 10px;
+  padding-left: 0px;
+}
 /* footer section */
 footer {
   color: #f9f9f9;
@@ -301,6 +315,7 @@ footer {
     font-size: 24px;
   }
   .education h4,
+  .papers h4,
   .experience h4 {
     font-size: 20px;
   }
@@ -324,6 +339,9 @@ footer {
   display: none;
 }
 
+.mySlides-pap {
+  display: none;
+}
 /* Next & previous buttons */
 .prev, .next {
   cursor: pointer;
@@ -341,7 +359,7 @@ footer {
   border-radius: 0 3px 3px 0;
   user-select: none;
 }
-.prev-exp, .next-exp {
+.prev-exp, .next-exp, .prev-pap, .next-pap {
   cursor: pointer;
   position: absolute;
   top: 50%;
@@ -364,7 +382,7 @@ footer {
   border-radius: 3px 0 0 3px;
 }
 
-.next-exp {
+.next-exp, .next-pap {
   right: 0;
   border-radius: 3px 0 0 3px;
 }
@@ -402,7 +420,7 @@ footer {
   display: inline-block;
   transition: background-color 0.6s ease;
 }
-.dot-exp {
+.dot-exp, .dot-pap {
   cursor: pointer;
   height: 15px;
   width: 15px;
@@ -418,7 +436,7 @@ footer {
   background-color: #fff;
 }
 
-.dot:hover, .dot-exp:hover {
+.dot:hover, .dot-exp:hover, .dot-pap:hover {
   background-color:#961313
 }
 
