@@ -47,7 +47,9 @@ h2 {
 .shadow {
 	text-shadow: 1px 1px #000;
 }
-
+img {
+  max-width: 100%;
+}
 .tm-title {
 	color: #806565;
 }
