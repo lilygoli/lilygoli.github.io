@@ -31,8 +31,13 @@ h2 {
 
 .accent {
   font-family: 'Proxima Bold';
-  line-height: 14px;
+  
   color: #A0A0A0;
+}
+ @media screen and (min-width: 420px){
+.accent {
+line-height: 14px;
+}
 }
 
 .bold {
@@ -382,7 +387,7 @@ footer {
   margin-right: -60px;
 }}
 
- @media screen and (min-width: 420px){
+ @media screen and (max-width: 420px){
 .prev-exp, .next-exp, .prev-pap, .next-pap {
   margin-top: -22px;
   margin-left: -50px;
