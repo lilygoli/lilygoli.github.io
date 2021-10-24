@@ -371,7 +371,9 @@ footer {
   position: absolute;
   top: 50%;
   width: auto;
-  
+   margin-top: -22px;
+  margin-left: -45px;
+  margin-right: -45px;
   padding: 16px;
   color: white;
   font-weight: bold;
@@ -387,12 +389,7 @@ footer {
   margin-right: -60px;
 }}
 
- @media screen and (max-width: 420px){
-.prev-exp, .next-exp, .prev-pap, .next-pap {
-  margin-top: -22px;
-   margin-left: -45px;
-  margin-right: -45px;
-}}
+
 /* Position the "next button" to the right */
 .next {
   right: 0;
