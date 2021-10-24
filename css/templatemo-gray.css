@@ -390,8 +390,8 @@ footer {
  @media screen and (max-width: 420px){
 .prev-exp, .next-exp, .prev-pap, .next-pap {
   margin-top: -22px;
-  margin-left: -50px;
-  margin-right: -40px;
+   margin-left: -45px;
+  margin-right: -45px;
 }}
 /* Position the "next button" to the right */
 .next {
