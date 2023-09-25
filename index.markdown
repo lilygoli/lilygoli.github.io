@@ -46,7 +46,7 @@ layout: page
             <div style="flex: 1; padding: 20px;">
                 <p> <b>Longitudinal Quantitative Assessment of COVID-19 Infection Pro-
 gression from Chest CTs</b> </p>
-                <p> Seong Tae Kim*, <b>Leili Goli*</b>, Magdalini Paschali, Ashkan Khakzar, Matthias Keicher, Tobias Czempiel, Egon Burian, Rickmer Braren, Nassir Navab, Thomas Wendler </p>
+                <p> Seong Tae Kim*, <b>Lily Goli*</b>, Magdalini Paschali, Ashkan Khakzar, Matthias Keicher, Tobias Czempiel, Egon Burian, Rickmer Braren, Nassir Navab, Thomas Wendler </p>
                 <p><i>MICCAI 2021</i></p>
             </div>
         </div>
