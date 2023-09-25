@@ -35,7 +35,7 @@ layout: page
             <div style="flex: 1; padding: 20px;">
                 <p> <b>nerf2nerf: Pairwise Registration of Neural Radiance Fields</b> </p>
                 <p> <b>Lily Goli</b>, Daniel Rebain, Sara Sabour, Animesh Garg, Andrea Tagliasacchi </p>
-                <p><i>ICRA 2023, CVPR workshop (<a href="https://sites.google.com/view/xrnerf/">XRNeRF</a>)</i></p>
+                <p><i>ICRA 2023, CVPR 2023 workshop (<a href="https://sites.google.com/view/xrnerf/">XRNeRF</a>)</i></p>
             </div>
         </div>
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
