@@ -4,7 +4,7 @@ layout: page
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
         <div style="flex: 1; padding-right: 20px;">
-            <img src="images/lily.jpg" alt="Your Image" style="max-width: 80%; height: 100%; display: block;">
+            <img src="images/lily.jpg" alt="Your Image" style="max-width: 80%;  display: block;">
             <br>
             <p style="margin-left: 3%"><a href="/files/cv.pdf">CV</a>  /  <a href="mailto:lily.goli@mail.utoronto.ca">Email</a>  /  <a href="https://scholar.google.com/citations?user=2wnyE-8AAAAJ&hl=en">Scholar</a>  /  <a href="https://github.com/lilygoli">Github</a>  /  <a href="https://twitter.com/lily_goli">Twitter</a></p> 
         </div>
@@ -18,7 +18,7 @@ layout: page
         <h2 style="color: #424242;font-size: 27px; font-family: Helvetica-light, serif;">Publications</h2>
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
             <div style="flex: 1; padding: 20px;">
-                <img src="/images/bayesrays.gif" alt="Publication Image 1" style="max-width: 70%; height: 100%; display: block;">
+                <img src="/images/bayesrays.gif" alt="Publication Image 1" style="max-width: 70%;  display: block;">
                 <p style="margin-left: 14%"> <a href="https://bayesrays.github.io" target="_blank" rel="noopener noreferrer">Page</a> / <a href="https://arxiv.org/abs/2309.03185" target="_blank" rel="noopener noreferrer">Arxiv</a> / <a href="https://github.com/BayesRays/BayesRays/tree/main" target="_blank" rel="noopener noreferrer">Code</a></p>
             </div>
             <div style="flex: 1; padding: 20px;">
@@ -29,18 +29,18 @@ layout: page
         </div>
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
             <div style="flex: 1; padding: 20px;">
-                <img src="/images/n2n.gif" alt="Publication Image 1" style="max-width: 70%; height: 100%; display: block;">
+                <img src="/images/n2n.gif" alt="Publication Image 1" style="max-width: 70%;  display: block;">
                 <p style="margin-left: 2%"> <a href="https://nerf2nerf.github.io" target="_blank" rel="noopener noreferrer">Page</a> / <a href="https://arxiv.org/abs/2211.01600" target="_blank" rel="noopener noreferrer">Arxiv</a> / <a href="https://github.com/nerf2nerf/nerf2nerf" target="_blank" rel="noopener noreferrer">Code</a> / <a href="https://t.co/VNO1VjgWOO" target="_blank" rel="noopener noreferrer">CV News</a> <br> <a href="/files/nerf2nerf_slides.pdf" target="_blank" rel="noopener noreferrer">Talk at Google Geo (slides)</a></p>
             </div>
             <div style="flex: 1; padding: 20px;">
                 <p> <b>nerf2nerf: Pairwise Registration of Neural Radiance Fields</b> </p>
                 <p> <b>Lily Goli</b>, Daniel Rebain, Sara Sabour, Animesh Garg, Andrea Tagliasacchi </p>
-                <p><i>ICRA 2023, CVPR 2023 workshop (<a href="https://sites.google.com/view/xrnerf/">XRNeRF</a>)</i></p>
+                <p><i>ICRA 2023, CVPR workshop (<a href="https://sites.google.com/view/xrnerf/">XRNeRF</a>) 2023</i></p>
             </div>
         </div>
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
             <div style="flex: 1; padding: 20px;">
-                <img src="/images/long.png" alt="Publication Image 1" style="max-width: 70%; height: 100%; display: block;">
+                <img src="/images/long.png" alt="Publication Image 1" style="max-width: 70%;  display: block;">
                 <p style="margin-left: 21%"> <a href="https://arxiv.org/abs/2103.07240" target="_blank" rel="noopener noreferrer">Arxiv</a> / <a href="https://github.com/lilygoli/longitudinalCOVID" target="_blank" rel="noopener noreferrer">Code</a></p>
             </div>
             <div style="flex: 1; padding: 20px;">
@@ -52,7 +52,7 @@ gression from Chest CTs</b> </p>
         </div>
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
             <div style="flex: 1; padding: 20px;">
-                <img src="/images/adv1.png" alt="Publication Image 1" style="max-width: 70%; height: 100%; display: block;">
+                <img src="/images/adv1.png" alt="Publication Image 1" style="max-width: 70%; display: block;">
                 <p style="margin-left: 30%"> <a href="https://arxiv.org/abs/2103.07640" target="_blank" rel="noopener noreferrer">Arxiv</a></p>
             </div>
             <div style="flex: 1; padding: 20px;">
@@ -63,7 +63,7 @@ gression from Chest CTs</b> </p>
         </div> 
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
             <div style="flex: 1; padding: 20px;">
-                <img src="/images/adv2.png" alt="Publication Image 1" style="max-width: 70%; height: 100%; display: block;">
+                <img src="/images/adv2.png" alt="Publication Image 1" style="max-width: 70%;  display: block;">
                 <p style="margin-left: 15%"> <a href="https://ieeexplore.ieee.org/document/9116889" target="_blank" rel="noopener noreferrer">Paper (IEEE Xplore)</a></p>
             </div>
             <div style="flex: 1; padding: 20px;">
