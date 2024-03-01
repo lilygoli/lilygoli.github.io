@@ -57,7 +57,7 @@ gression from Chest CTs</b> </p>
                 <p style="margin-left: 30%"> <a href="https://arxiv.org/abs/2103.07640" target="_blank" rel="noopener noreferrer">Arxiv</a></p>
             </div>
             <div style="flex: 1; padding: 20px;">
-                <p> <b>Generating Unrestricted Adversarial Examples via Three Parameters</b> </p>
+                <p> <b>Generating Unrestricted Misclassified Examples via Three Parameters</b> </p>
                 <p> Hanieh Naderi, <b>Lily Goli</b>, Shohreh Kasaei</p>
                 <p><i> Multimedia Tools and Applications 2021</i></p>
             </div>
