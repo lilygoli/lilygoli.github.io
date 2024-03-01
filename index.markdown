@@ -25,7 +25,7 @@ layout: page
             <div style="flex: 1; padding: 20px;">
                 <p> <b>Bayes’ Rays: Uncertainty Quantification for Neural Radiance Fields</b> </p>
                 <p> <b>Lily Goli</b>, Cody Reading, Silvia Sellán, Alec Jacobson, Andrea Tagliasacchi </p>
-                <p><i>preprint</i></p>
+                <p><i>CVPR 2024</i></p>
             </div>
         </div>
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
