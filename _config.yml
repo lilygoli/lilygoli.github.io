@@ -20,7 +20,7 @@
 
 title: Lily Goli
 description: >- # this means to ignore newlines until "baseurl:"
-  Lily's personal webpage.
+  Lily's personal webpage. Format inspired by Jon Barron's webpage.
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "lilygoli.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lily_goli
