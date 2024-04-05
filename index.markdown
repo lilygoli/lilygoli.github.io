@@ -28,8 +28,7 @@ layout: page
                 <p><i>CVPR 2024 (<b>Highlight</b> ~ top 10%)</i></p>
             </div>
         </div>
-
-        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
             <div style="flex: 1; padding: 20px;">
                 <img src="/images/BANF.gif" alt="Publication Image 1" style="max-width: 70%;  display: block;">
                 <p style="margin-left: 14%"> <a href="https://theialab.github.io/banf/" target="_blank" rel="noopener noreferrer">Page</a> 
@@ -39,8 +38,7 @@ layout: page
                 <p> Ahan Shabanov, Shrisudhan Govindarajan, Cody Reading, <b>Lily Goli</b>, Daniel Rebain, Kwang Moo Yi, Andrea Tagliasacchi </p>
                 <p><i>CVPR 2024</i></p>
             </div>
-        </div>
-        
+        </div> 
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
             <div style="flex: 1; padding: 20px;">
                 <img src="/images/n2n.gif" alt="Publication Image 1" style="max-width: 70%;  display: block;">
