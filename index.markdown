@@ -31,7 +31,7 @@ layout: page
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
             <div style="flex: 1; padding: 20px;">
                 <img src="/images/BANF.gif" alt="Publication Image 1" style="max-width: 70%;  display: block;">
-                <p style="margin-left: 2%"> <a href="https://theialab.github.io/banf/" target="_blank" rel="noopener noreferrer">Page</a> / <a href=""_blank" rel="noopener noreferrer">Arxiv</a> / <a href="" target="_blank" rel="noopener noreferrer">Code</a></p>
+                <p style="margin-left: 2%"> <a href="https://theialab.github.io/banf/" target="_blank" rel="noopener noreferrer">Page</a> / <a href="" target="_blank" rel="noopener noreferrer">Arxiv</a> / <a href="" target="_blank" rel="noopener noreferrer">Code</a></p>
             </div>
             <div style="flex: 1; padding: 20px;">
                 <p> <b>BANF: Band-limited Neural Fields for Levels of Detail Reconstruction</b> </p>
