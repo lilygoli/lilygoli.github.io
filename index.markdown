@@ -18,6 +18,18 @@ layout: page
 <div>
         <h2 style="color: #424242;font-size: 27px; font-family: Helvetica-light, serif;">Publications</h2>
 
+         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+            <div style="flex: 1; padding: 20px;">
+                <img src="/images/romo.gif" alt="Publication Image 1" style="max-width: 70%;  display: block;">
+                <p style="margin-left: 14%"> <a href="https://romosfm.github.io" target="_blank" rel="noopener noreferrer">Page</a> / <a href="https://arxiv.org/abs/2411.18650" target="_blank" rel="noopener noreferrer">Arxiv</a></p>
+            </div>
+            <div style="flex: 1; padding: 20px;">
+                <p> <b>RoMo: Robust Motion Segmentation Improves Structure from Motion</b> </p>
+                <p> <b>Lily Goli*</b>, Sara Sabour*, Mark Matthews, Marcus Brubaker, Dmitry Lagun, Alec Jacobson, David J. Fleet, Saurabh Saxena*, Andrea Tagliasacchi* </p>
+                <p><i>preprint</i></p>
+            </div>
+        </div>       
+
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
             <div style="flex: 1; padding: 20px;">
                 <img src="/images/sls.gif" alt="Publication Image 1" style="max-width: 70%;  display: block;">
