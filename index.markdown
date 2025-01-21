@@ -38,7 +38,7 @@ layout: page
             <div style="flex: 1; padding: 20px;">
                 <p> <b>SpotlessSplats: Ignoring Distractors in 3D Gaussian Splatting</b> </p>
                 <p> <b>Lily Goli*</b>, Sara Sabour*, George Kopanas, Mark Matthews, Dmitry Lagun, Leonidas Guibas, Alec Jacobson, David J. Fleet, Andrea Tagliasacchi </p>
-                <p><i>preprint</i></p>
+                <p><i>Transactions on Graphics (TOG) 2025</i></p>
             </div>
         </div>
         
