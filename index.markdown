@@ -5,8 +5,9 @@ layout: page
 <div style="display: flex; justify-content: space-between; align-items: center;">
         <div style="flex: 1; padding-right: 20px;">
             <img src="images/lily.jpg" alt="Your Image" style="max-width: 80%;  display: block;">
-            <br>
-            <p style="margin-left: 3%"><a href="/files/cv.pdf">CV</a>  /  <a href="mailto:lily.goli@mail.utoronto.ca">Email</a>  /  <a href="https://scholar.google.com/citations?user=2wnyE-8AAAAJ&hl=en">Scholar</a>  /  <a href="https://github.com/lilygoli">Github</a>  /  <a href="https://twitter.com/lily_goli">Twitter</a></p> 
+            <br> 
+<!--                 <a href="/files/cv.pdf">CV</a>  / -->
+            <p style="margin-left: 3%">  <a href="mailto:lily.goli@mail.utoronto.ca">Email</a>  /  <a href="https://scholar.google.com/citations?user=2wnyE-8AAAAJ&hl=en">Scholar</a>  /  <a href="https://github.com/lilygoli">Github</a>  /  <a href="https://twitter.com/lily_goli">Twitter</a></p> 
         </div>
         <div style="flex: 1; padding-left: 0px; padding-right: 10px">
             <p style="text-align: justify;">I am a PhD student in Computer Science at University of Toronto, co-advised by <a href="https://www.cs.toronto.edu/~jacobson" target="_blank" rel="noopener noreferrer"> Alec Jacobson </a> and <a href="https://taiya.github.io" target="_blank" rel="noopener noreferrer">Andrea Tagliasacchi</a>. I am currently focused on improving robustness in 3D models like Radiance Fields and enabling them to work seamlessly with 3D processing tools. More broadly, I am interested in 3D Computer Vision and Graphics. I am currently a research intern at <a href="https://waabi.ai/" target="_blank" rel="noopener noreferrer">Waabi</a> and previously worked at Google DeepMind as a student researcher.</p>
