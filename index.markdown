@@ -27,7 +27,7 @@ layout: page
             <div style="flex: 1; padding: 20px;">
                 <p> <b>RoMo: Robust Motion Segmentation Improves Structure from Motion</b> </p>
                 <p> <b>Lily Goli*</b>, Sara Sabour*, Mark Matthews, Marcus Brubaker, Dmitry Lagun, Alec Jacobson, David J. Fleet, Saurabh Saxena*, Andrea Tagliasacchi* </p>
-                <p><i>preprint</i></p>
+                <p><i>ICCV 2025</i></p>
             </div>
         </div>       
 
