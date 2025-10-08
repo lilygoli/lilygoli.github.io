@@ -6,8 +6,8 @@ layout: page
         <div style="flex: 1; padding-right: 20px;">
             <img src="images/lily.jpg" alt="Your Image" style="max-width: 80%;  display: block;">
             <br> 
-                <a href="/files/cv.pdf">CV</a>  /
-            <p style="margin-left: 3%">  <a href="mailto:lily.goli@mail.utoronto.ca">Email</a>  /  <a href="https://scholar.google.com/citations?user=2wnyE-8AAAAJ&hl=en">Scholar</a>  /  <a href="https://github.com/lilygoli">Github</a>  /  <a href="https://twitter.com/lily_goli">Twitter</a></p> 
+                
+            <p style="margin-left: 3%">  <a href="mailto:lily.goli@mail.utoronto.ca">Email</a>  /  <a href="/files/cv.pdf">CV</a>  / <a href="https://scholar.google.com/citations?user=2wnyE-8AAAAJ&hl=en">Scholar</a>  /  <a href="https://github.com/lilygoli">Github</a>  /  <a href="https://twitter.com/lily_goli">Twitter</a></p> 
         </div>
         <div style="flex: 1; padding-left: 0px; padding-right: 10px">
             <p style="text-align: justify;">I am a PhD student in Computer Science at University of Toronto, co-advised by <a href="https://www.cs.toronto.edu/~jacobson" target="_blank" rel="noopener noreferrer"> Alec Jacobson </a> and <a href="https://taiya.github.io" target="_blank" rel="noopener noreferrer">Andrea Tagliasacchi</a>. I am currently focused on improving robustness in 3D models like Radiance Fields and enabling them to work seamlessly with 3D processing tools. More broadly, I am interested in 3D Computer Vision and Graphics. I am currently a research intern at <a href="https://waabi.ai/" target="_blank" rel="noopener noreferrer">Waabi</a> and previously worked at Google DeepMind as a student researcher.</p>
@@ -22,8 +22,7 @@ layout: page
          <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
             <div style="flex: 1; padding: 20px;">
                 <img src="/images/romo.gif" alt="Publication Image 1" style="max-width: 70%;  display: block;">
-                <p style="margin-left: 14%"> <a href="https://romosfm.github.io" target="_blank" rel="noopener noreferrer">Page</a> / <a href="https://arxiv.org/abs/2411.18650" target="_blank" rel="noopener noreferrer">Arxiv</a></p>
-                / <a href="https://github.com/google-deepmind/romo" target="_blank" rel="noopener noreferrer">Code</a></p>
+                <p style="margin-left: 14%"> <a href="https://romosfm.github.io" target="_blank" rel="noopener noreferrer">Page</a> / <a href="https://arxiv.org/abs/2411.18650" target="_blank" rel="noopener noreferrer">Arxiv</a> / <a href="https://github.com/google-deepmind/romo" target="_blank" rel="noopener noreferrer">Code</a></p>
             </div>
             <div style="flex: 1; padding: 20px;">
                 <p> <b>RoMo: Robust Motion Segmentation Improves Structure from Motion</b> </p>
