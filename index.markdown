@@ -6,7 +6,7 @@ layout: page
         <div style="flex: 1; padding-right: 20px;">
             <img src="images/lily.jpg" alt="Your Image" style="max-width: 80%;  display: block;">
             <br> 
-<!--                 <a href="/files/cv.pdf">CV</a>  / -->
+                <a href="/files/cv.pdf">CV</a>  /
             <p style="margin-left: 3%">  <a href="mailto:lily.goli@mail.utoronto.ca">Email</a>  /  <a href="https://scholar.google.com/citations?user=2wnyE-8AAAAJ&hl=en">Scholar</a>  /  <a href="https://github.com/lilygoli">Github</a>  /  <a href="https://twitter.com/lily_goli">Twitter</a></p> 
         </div>
         <div style="flex: 1; padding-left: 0px; padding-right: 10px">
@@ -23,6 +23,7 @@ layout: page
             <div style="flex: 1; padding: 20px;">
                 <img src="/images/romo.gif" alt="Publication Image 1" style="max-width: 70%;  display: block;">
                 <p style="margin-left: 14%"> <a href="https://romosfm.github.io" target="_blank" rel="noopener noreferrer">Page</a> / <a href="https://arxiv.org/abs/2411.18650" target="_blank" rel="noopener noreferrer">Arxiv</a></p>
+                / <a href="https://github.com/google-deepmind/romo" target="_blank" rel="noopener noreferrer">Code</a></p>
             </div>
             <div style="flex: 1; padding: 20px;">
                 <p> <b>RoMo: Robust Motion Segmentation Improves Structure from Motion</b> </p>
