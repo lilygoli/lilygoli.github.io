@@ -57,6 +57,19 @@ layout: page
         
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
             <div style="flex: 1; padding: 20px;">
+                <img src="/images/marias.gif" alt="3D Gaussian Flats" style="max-width: 70%;  display: block;">
+                <p style="margin-left: 14%"> <a href="https://theialab.github.io/3dgs-flats/" target="_blank" rel="noopener noreferrer">Page</a> / <a href="https://arxiv.org/abs/2509.16423" target="_blank" rel="noopener noreferrer">Arxiv</a> / <a href="https://github.com/theialab/3dgs-flats/" target="_blank" rel="noopener noreferrer">Code</a></p>
+            </div>
+            <div style="flex: 1; padding: 20px;">
+                <p> <b>3D Gaussian Flats: Hybrid 2D/3D Photometric Scene Reconstruction</b> </p>
+                <p> Maria Taktasheva, <b>Lily Goli</b><sup>†</sup>, Alessandro Fiorini, Zhen (Colin) Li, Daniel Rebain, Andrea Tagliasacchi<sup>†</sup> </p>
+                <p style="font-size: 0.85em; color: #828282;"><sup>†</sup> Equal advising</p>
+                <p><i>NeurIPS 2025</i></p>
+            </div>
+        </div>
+
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+            <div style="flex: 1; padding: 20px;">
                 <img src="/images/bayesrays.gif" alt="Publication Image 1" style="max-width: 70%;  display: block;">
                 <p style="margin-left: 14%"> <a href="https://bayesrays.github.io" target="_blank" rel="noopener noreferrer">Page</a> / <a href="https://arxiv.org/abs/2309.03185" target="_blank" rel="noopener noreferrer">Arxiv</a> / <a href="https://github.com/BayesRays/BayesRays/tree/main" target="_blank" rel="noopener noreferrer">Code</a></p>
             </div>
