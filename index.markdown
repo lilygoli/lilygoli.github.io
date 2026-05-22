@@ -11,7 +11,7 @@ layout: page
         </div>
         <div style="flex: 1; padding-left: 0px; padding-right: 10px">
             <p style="text-align: justify;">I am a final-year PhD student in Computer Science at the University of Toronto, co-advised by <a href="https://www.cs.toronto.edu/~jacobson" target="_blank" rel="noopener noreferrer">Alec Jacobson</a> and <a href="https://taiya.github.io" target="_blank" rel="noopener noreferrer">Andrea Tagliasacchi</a>. My research focuses on 3D computer vision and graphics, with an emphasis on robust 3D/4D reconstruction, uncertainty estimation, and camera pose estimation. More recently, I have been exploring reinforcement learning methods for embodied agents in 3D worlds.</p>
-            <p style="text-align: justify;">I have interned at <a href="https://waabi.ai/" target="_blank" rel="noopener noreferrer">Waabi AI</a>, Google DeepMind, and <a href="https://wayve.ai/" target="_blank" rel="noopener noreferrer">Wayve</a>, and spent time as a visiting student with <a href="https://people.eecs.berkeley.edu/~kanazawa/" target="_blank" rel="noopener noreferrer">Angjoo Kanazawa</a>'s lab at UC Berkeley. Broadly, I am interested in robust and uncertainty-aware 3D perception, and how it can support learning and decision-making in the real world.</p>
+            <p style="text-align: justify;">I have interned at <a href="https://waabi.ai/" target="_blank" rel="noopener noreferrer">Waabi AI</a>, <span style="color: #2a7ae2;">Google DeepMind</span>, and <a href="https://wayve.ai/" target="_blank" rel="noopener noreferrer">Wayve</a>, and spent time as a visiting student with <a href="https://people.eecs.berkeley.edu/~kanazawa/" target="_blank" rel="noopener noreferrer">Angjoo Kanazawa</a>'s lab at UC Berkeley. Broadly, I am interested in robust and uncertainty-aware 3D perception, and how it can support learning and decision-making in the real world.</p>
             <p style="text-align: justify;">Before my PhD, I completed my B.Sc. at Sharif University of Technology, where I also had research internships at TU Munich and UBC.</p>
         </div>
 </div>
@@ -22,12 +22,12 @@ layout: page
          <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
             <div style="flex: 1; padding: 20px;">
                 <img src="/images/recuriosity.gif" alt="Remember to be Curious" style="max-width: 70%;  display: block;">
-                <p style="margin-left: 14%"> <a href="https://recuriosity.github.io" target="_blank" rel="noopener noreferrer">Page</a> / <a href="https://arxiv.org/abs/2505.20034" target="_blank" rel="noopener noreferrer">Arxiv</a></p>
+                <p style="margin-left: 14%"> <a href="https://recuriosity.github.io" target="_blank" rel="noopener noreferrer">Page</a> / <a href="https://github.com/recuriosity/recuriosity" target="_blank" rel="noopener noreferrer">Code</a></p>
             </div>
             <div style="flex: 1; padding: 20px;">
                 <p> <b>Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration</b> </p>
                 <p> <b>Lily Goli</b>, Justin Kerr, Daniele Reda, Alec Jacobson, Andrea Tagliasacchi, Angjoo Kanazawa </p>
-                <p><i>arXiv 2025</i></p>
+                <p><i>arXiv 2026</i></p>
             </div>
         </div>
 
