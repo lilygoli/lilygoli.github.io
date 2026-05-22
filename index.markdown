@@ -38,7 +38,8 @@ layout: page
             </div>
             <div style="flex: 1; padding: 20px;">
                 <p> <b>RoMo: Robust Motion Segmentation Improves Structure from Motion</b> </p>
-                <p> <b>Lily Goli*</b>, Sara Sabour*, Mark Matthews, Marcus Brubaker, Dmitry Lagun, Alec Jacobson, David J. Fleet, Saurabh Saxena*, Andrea Tagliasacchi* </p>
+                <p> <b>Lily Goli</b><sup>*</sup>, Sara Sabour<sup>*</sup>, Mark Matthews, Marcus Brubaker, Dmitry Lagun, Alec Jacobson, David J. Fleet, Saurabh Saxena<sup>†</sup>, Andrea Tagliasacchi<sup>†</sup> </p>
+                <p style="font-size: 0.85em; color: #828282;"><sup>*</sup> Equal contribution &nbsp; <sup>†</sup> Equal advising</p>
                 <p><i>ICCV 2025</i></p>
             </div>
         </div>       
@@ -50,7 +51,8 @@ layout: page
             </div>
             <div style="flex: 1; padding: 20px;">
                 <p> <b>SpotlessSplats: Ignoring Distractors in 3D Gaussian Splatting</b> </p>
-                <p> <b>Lily Goli*</b>, Sara Sabour*, George Kopanas, Mark Matthews, Dmitry Lagun, Leonidas Guibas, Alec Jacobson, David J. Fleet, Andrea Tagliasacchi </p>
+                <p> <b>Lily Goli</b><sup>*</sup>, Sara Sabour<sup>*</sup>, George Kopanas, Mark Matthews, Dmitry Lagun, Leonidas Guibas, Alec Jacobson, David J. Fleet, Andrea Tagliasacchi </p>
+                <p style="font-size: 0.85em; color: #828282;"><sup>*</sup> Equal contribution</p>
                 <p><i>Transactions on Graphics (TOG) 2025</i></p>
             </div>
         </div>
@@ -109,7 +111,8 @@ layout: page
             <div style="flex: 1; padding: 20px;">
                 <p> <b>Longitudinal Quantitative Assessment of COVID-19 Infection Pro-
 gression from Chest CTs</b> </p>
-                <p> <b>Lily Goli*</b>, Seong Tae Kim*, Magdalini Paschali, Ashkan Khakzar, Matthias Keicher, Tobias Czempiel, Egon Burian, Rickmer Braren, Nassir Navab, Thomas Wendler </p>
+                <p> <b>Lily Goli</b><sup>*</sup>, Seong Tae Kim<sup>*</sup>, Magdalini Paschali, Ashkan Khakzar, Matthias Keicher, Tobias Czempiel, Egon Burian, Rickmer Braren, Nassir Navab, Thomas Wendler </p>
+                <p style="font-size: 0.85em; color: #828282;"><sup>*</sup> Equal contribution</p>
                 <p><i>MICCAI 2021</i></p>
             </div>
         </div>
